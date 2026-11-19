@@ -1,14 +1,3 @@
-Source of this folder
-=====================
-Downloaded: 2026-11-19 (Europe/Moscow)
-Method: wget recursive from https://abitpsy.ru/
-Type: public static export (Next.js / Turbopack build output)
-
-NOT included:
-- Next.js / React source tree
-- Hosting panel document root zip
-- Environment secrets / CMS admin
-
-Live host notes:
-- HTTPS via nginx
-- Domain abitpsy.ru resolves to REG.RU hosting (server45.hosting.reg.ru panel seen on /_next/static/)
+Original public mirror of https://abitpsy.ru/
+Downloaded fresh without local design edits.
+Use this folder / ZIP as the baseline for new changes.
