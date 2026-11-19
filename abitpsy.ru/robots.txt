@@ -1,0 +1,35 @@
+User-agent: *
+Allow: /
+Disallow: /cabinet/
+Disallow: /lead.php
+Disallow: /lead-crm.php
+Disallow: /lead-config.php
+Disallow: /lead-data/
+Disallow: /*?utm_
+Disallow: /*&utm_
+
+User-agent: Yandex
+Allow: /
+Disallow: /cabinet/
+Disallow: /lead.php
+Disallow: /lead-crm.php
+Disallow: /lead-config.php
+Disallow: /lead-data/
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&fbclid&roistat&_openstat&from /
+
+User-agent: GPTBot
+Allow: /
+Disallow: /cabinet/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /cabinet/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /cabinet/
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://abitpsy.ru/sitemap.xml

@@ -1,0 +1,3 @@
+Original public mirror of https://abitpsy.ru/
+Downloaded fresh without local design edits.
+Use this folder / ZIP as the baseline for new changes.
